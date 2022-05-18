@@ -20,13 +20,16 @@
 <!-- Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering: -->
 
 - Where can I see the demo?
-The demo can be found <a href="https://dpons039.github.io/Mixed_Messages/">here</a>.
+
+  The demo can be found <a href="https://dpons039.github.io/Mixed_Messages/">here</a>.
 
 - What was my experience?
-This was my first attempt on integrating JS into HTML, it was a very good challenge and I'm really happy with the outcome.
+
+  This was my first attempt on integrating JS into HTML, it was a very good challenge and I'm really happy with the outcome.
 
 - What have I learned/improved?
-I have learned to interact between JS and HTML and added a small amount of CSS into the mix.
+
+  I have learned to interact between JS and HTML and added a small amount of CSS into the mix.
 
 <!-- - Your wisdom? :) -->
 ### Built With
